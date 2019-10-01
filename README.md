@@ -19,3 +19,6 @@
     --input_dir $input_dir \
     --output_dir $output_dir \
     --model_ckpt $model_checkpoint
+
+### The original code can be found [here](https://github.com/tensorflow/models/tree/master/research/struct2depth)
+### The respective research paper can be found V. Casser, S. Pirk, R. Mahjourian, A. Angelova, Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos, AAAI Conference on Artificial Intelligence, 2019[ https://arxiv.org/pdf/1811.06152.pdf]( https://arxiv.org/pdf/1811.06152.pdf)
